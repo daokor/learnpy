@@ -1,6 +1,8 @@
 import os,glob
 from os.path import join
 
+from filemeta import *
+
 
 #suffixs to check
 suffixs=['.zip','.opar']
